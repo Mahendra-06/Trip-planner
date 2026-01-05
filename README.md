@@ -1,4 +1,4 @@
 # Trip-planner
 
-# Hello
-let's learn git
+# Hey 
+let's learn git with swecha
