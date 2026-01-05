@@ -1,4 +1,4 @@
 # Trip-planner
 
 # Hello
-let learn git
+let's learn git
